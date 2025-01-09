@@ -1,5 +1,5 @@
 # Social Media API
-
+http://127.0.0.1:8000/api
 A RESTful API built with Django and Django REST Framework, enabling users to create posts, follow other users, and view a personalized feed.
 
 
