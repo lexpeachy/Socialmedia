@@ -7422,3 +7422,40 @@ File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\lib\site-packages\rest_fra
             WHERE table_schema = DATABASE()
             ; args=None; alias=default
 (0.032) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1736286199.0379024
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1736286216.2218444
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1736286196.697618
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1736286200.163588
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1736286199.0478995
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1736286217.873765
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1736286216.2218444
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1736286217.8767633
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1736286199.0068624
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1736286199.0429008
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1736286199.0458984
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1736286199.0409007
+File D:\Socialmedia\api\migrations\0001_initial.py first seen with mtime 1736290707.3380082
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1736286217.8757648
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\MySQLdb\connections.py first seen with mtime 1736290505.0855968
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1736286217.881761
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1736286199.0498972
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1736286217.542959
+File C:\Users\Admin\AppData\Local\Programs\Python\Python310\Lib\stringprep.py first seen with mtime 1633363924.0
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1736286200.1625884
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\MySQLdb\cursors.py first seen with mtime 1736290505.0925927
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1736286196.7006118
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1736286196.6986165
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1736286215.3086522
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1736286199.041912
+File C:\Users\Admin\AppData\Local\Programs\Python\Python310\Lib\encodings\idna.py first seen with mtime 1633363924.0
+File D:\Socialmedia\api\migrations\__init__.py first seen with mtime 1736286519.5947278
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\backends\mysql\compiler.py first seen with mtime 1736286217.7568903
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1736286200.164588
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1736286199.0518959
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1736286199.0389023
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1736286199.0088575
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1736286199.044899
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1736286199.0508962
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1736286217.9607131
+File D:\Socialmedia\socialproject\wsgi.py first seen with mtime 1736290206.8889868
+File C:\Users\Admin\.virtualenvs\Socialmedia-8qZoeTQj\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1736286196.6996167
